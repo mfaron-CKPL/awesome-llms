@@ -6,6 +6,10 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 
 *work in progeress...*
 
+## How GPT works?
+
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+
 ## Prompt Engineering
 
 - [Prompt Engineering Guide by DAIR.AI](https://www.promptingguide.ai/)
@@ -13,6 +17,50 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 ## OpenAI's resources
 
 - [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
-- [Knowledge in GPTs](https://help.openai.com/en/articles/8843948-knowledge-in-gpts)
 - [GPT-4 Turbo in the OpenAI API](https://help.openai.com/en/articles/8555510-gpt-4-turbo-in-the-openai-api)
+- [Knowledge in GPTs](https://help.openai.com/en/articles/8843948-knowledge-in-gpts)
 - [Retrieval Augmented Generation (RAG) and Semantic Search for GPTs](https://help.openai.com/en/articles/8868588-retrieval-augmented-generation-rag-and-semantic-search-for-gpts)
+- [OpenAI's Embeddings](https://platform.openai.com/docs/guides/embeddings)
+- [OpenAI Cookbook](https://cookbook.openai.com/)
+- [Moderation API](https://platform.openai.com/docs/guides/moderation/overview)
+
+## Frameworks and tools
+
+- [LangChain](https://python.langchain.com/docs/get_started/introduction) - LangChain is a framework for developing applications powered by language models.
+
+## Tokenization
+
+- [Byte pair encoding](https://en.wikipedia.org/wiki/Byte_pair_encoding)
+
+## Embeddings and Vecotr Databases
+
+- [The Ins and Outs of Working with Embeddings and Embedding Models](https://www.linkedin.com/comm/pulse/ins-outs-working-embeddings-embedding-models-towards-data-science-mizmc)
+- [The Top 5 Vector Databases - DataCamp Article](https://www.datacamp.com/blog/the-top-5-vector-databases)
+- [A gentle introduction to Vector Databases - Weaviate Blog](https://weaviate.io/blog/what-is-a-vector-database)
+- [Weaviate.io](https://weaviate.io/)
+- [Milvus](https://milvus.io/)
+
+## Forecasting and Time Series
+
+- [Time-LLM: Reprogram an LLM for Time Series Forecasting](https://towardsdatascience.com/time-llm-reprogram-an-llm-for-time-series-forecasting-e2558087b8ac)
+
+## LLM Security
+
+- [What Anthropic’s Sleeper Agents study means for LLM apps](https://bdtechtalks.com/2024/01/17/anthropic-llm-backdoor/)
+
+## Libraries
+
+- [OpenAI Python API library](https://github.com/openai/openai-python)
+- [OpenAI Node API Library](https://github.com/openai/openai-node)
+- [tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+
+## Academic Papers
+
+- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+- [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/html/2401.18059v1)
+
+## Other
+
+- [Named Entity Recognition (NER)](https://www.techtarget.com/whatis/definition/named-entity-recognition-NER)
+  - [@Wikipedia](https://en.wikipedia.org/wiki/Named-entity_recognition)
+  - [What is Named Entity Recognition (NER)? Methods, Use Cases, and Challenges - DataCamp](https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
