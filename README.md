@@ -32,13 +32,20 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 
 - [Byte pair encoding](https://en.wikipedia.org/wiki/Byte_pair_encoding)
 
-## Embeddings and Vecotr Databases
+## Embeddings
 
 - [The Ins and Outs of Working with Embeddings and Embedding Models](https://www.linkedin.com/comm/pulse/ins-outs-working-embeddings-embedding-models-towards-data-science-mizmc)
+
+## Vector Databases
+
 - [The Top 5 Vector Databases - DataCamp Article](https://www.datacamp.com/blog/the-top-5-vector-databases)
 - [A gentle introduction to Vector Databases - Weaviate Blog](https://weaviate.io/blog/what-is-a-vector-database)
 - [Weaviate.io](https://weaviate.io/)
 - [Milvus](https://milvus.io/)
+
+## RAG and giving models a long-term memory
+
+- [Stanford CS25: V3 I Retrieval Augmented Language Models - YT](https://youtu.be/mE7IDf2SmJg?si=VoUHzA2guAuskkb8)
 - [RAFT: Adapting Language Model to Domain Specific RAG](https://huggingface.co/papers/2403.10131)
   - [code](https://github.com/ShishirPatil/gorilla/tree/main/raft)
   - [LinkedIn post by Andrew Jardine (Hugging Face)](https://www.linkedin.com/posts/andrew-iain-jardine_llms-llm-gpt3-activity-7175859531439099904-Rxbf?utm_source=share&utm_medium=member_desktop)
