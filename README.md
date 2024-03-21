@@ -39,10 +39,20 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 - [A gentle introduction to Vector Databases - Weaviate Blog](https://weaviate.io/blog/what-is-a-vector-database)
 - [Weaviate.io](https://weaviate.io/)
 - [Milvus](https://milvus.io/)
+- [RAFT: Adapting Language Model to Domain Specific RAG](https://huggingface.co/papers/2403.10131)
+  - [code](https://github.com/ShishirPatil/gorilla/tree/main/raft)
+  - [LinkedIn post by Andrew Jardine (Hugging Face)](https://www.linkedin.com/posts/andrew-iain-jardine_llms-llm-gpt3-activity-7175859531439099904-Rxbf?utm_source=share&utm_medium=member_desktop)
+- [Massive Text Embedding Benchmark from Hugging Face](https://github.com/embeddings-benchmark/mteb)
 
 ## Forecasting and Time Series
 
 - [Time-LLM: Reprogram an LLM for Time Series Forecasting](https://towardsdatascience.com/time-llm-reprogram-an-llm-for-time-series-forecasting-e2558087b8ac)
+
+## LLM Testing and Evaluation
+
+- [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
+- [Is RAG Really Dead? Testing Multi Fact Retrieval & Reasoning in GPT4-128k](https://youtu.be/UlmyyYQGhzc?si=37a06MISPrwdm0Fd)
+  - [Multi Needle In A Haystack Evaluation + LangSmith](https://github.com/gkamradt/LLMTest_NeedleInAHaystack/blob/main/viz/CreateVisFromLangSmithTesting.ipynb) - rendered IPyNotebook on Github
 
 ## LLM Security
 
@@ -54,10 +64,11 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 - [OpenAI Node API Library](https://github.com/openai/openai-node)
 - [tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 
-## Academic Papers
+## (Academic) Papers
 
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 - [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/html/2401.18059v1)
+- [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131)
 
 ## Other
 
