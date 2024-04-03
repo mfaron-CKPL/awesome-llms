@@ -27,6 +27,9 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 ## Frameworks and tools
 
 - [LangChain](https://python.langchain.com/docs/get_started/introduction) - LangChain is a framework for developing applications powered by language models.
+  - `book` [LangChain AI Handbook By James Briggs & Francisco Ingham - Pinecone](https://www.pinecone.io/learn/series/langchain/)
+  - `tutorials` [LangChain Tutorial page](https://python.langchain.com/docs/additional_resources/tutorials)
+  - `cookbook` [LangChain Cookbook](https://python.langchain.com/docs/additional_resources/tutorials)
 
 ## Tokenization
 
@@ -38,10 +41,16 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 
 ## Vector Databases
 
+- [Vector databases - OpenAI Cookbook](https://cookbook.openai.com/examples/vector_databases/readme)
 - [The Top 5 Vector Databases - DataCamp Article](https://www.datacamp.com/blog/the-top-5-vector-databases)
 - [A gentle introduction to Vector Databases - Weaviate Blog](https://weaviate.io/blog/what-is-a-vector-database)
 - [Weaviate.io](https://weaviate.io/)
-- [Milvus](https://milvus.io/)
+- [Milvus](https://github.com/milvus-io/milvus)
+  - [Milvus - Quick start](https://milvus.io/docs/quickstart.md)
+- [chroma](https://github.com/chroma-core/chroma)
+  - [chroma - Getting started](https://docs.trychroma.com/getting-started)
+- [qdrant](https://github.com/qdrant/qdrant)
+  - [qdrant Quickstart](https://qdrant.tech/documentation/quick-start/)
 
 ## RAG and giving models a long-term memory
 
@@ -76,6 +85,10 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 - [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/html/2401.18059v1)
 - [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131)
+
+## Managing costs and resources
+
+- [The REAL cost of LLM (And How to reduce 78%+ of Cost)](https://www.youtube.com/watch?v=lHxl5SchjPA)
 
 ## Other
 
