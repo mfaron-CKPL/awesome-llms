@@ -4,7 +4,7 @@
 
 A samll and humble repo trying to collect *awesome* resources about Large Language Models and more!
 
-*work in progeress...*
+*work in constant progress...*
 
 ## How GPT works?
 
@@ -21,15 +21,30 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 - [Knowledge in GPTs](https://help.openai.com/en/articles/8843948-knowledge-in-gpts)
 - [Retrieval Augmented Generation (RAG) and Semantic Search for GPTs](https://help.openai.com/en/articles/8868588-retrieval-augmented-generation-rag-and-semantic-search-for-gpts)
 - [OpenAI's Embeddings](https://platform.openai.com/docs/guides/embeddings)
-- [OpenAI Cookbook](https://cookbook.openai.com/)
+- `cookbook` [OpenAI Cookbook](https://cookbook.openai.com/)
 - [Moderation API](https://platform.openai.com/docs/guides/moderation/overview)
 
-## Frameworks and tools
+## Frameworks
 
 - [LangChain](https://python.langchain.com/docs/get_started/introduction) - LangChain is a framework for developing applications powered by language models.
   - `book` [LangChain AI Handbook By James Briggs & Francisco Ingham - Pinecone](https://www.pinecone.io/learn/series/langchain/)
   - `tutorials` [LangChain Tutorial page](https://python.langchain.com/docs/additional_resources/tutorials)
   - `cookbook` [LangChain Cookbook](https://python.langchain.com/docs/additional_resources/tutorials)
+  - [LangChain Templates](https://templates.langchain.com/#)
+
+## Tools
+
+### Development, testing and deploying AI systems
+
+- `docs` [LangSmith Docs](https://docs.smith.langchain.com/) LangSmith is a platform for building production-grade LLM applications.
+  - [LangSmith Pricing](https://docs.smith.langchain.com/pricing)
+
+### for AI Agents
+
+- [Tavily AI](https://tavily.com/) - Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results
+  - `docs` [Tavily API](https://docs.tavily.com/docs/tavily-api/introduction)
+  - `docs` [GPT Researcher](https://docs.tavily.com/docs/gpt-researcher/introduction)
+  - `github` [GPT Researcher GitHub page](https://github.com/assafelovic/gpt-researcher)
 
 ## Tokenization
 
@@ -67,8 +82,8 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 ## LLM Testing and Evaluation
 
 - [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
-- [Is RAG Really Dead? Testing Multi Fact Retrieval & Reasoning in GPT4-128k](https://youtu.be/UlmyyYQGhzc?si=37a06MISPrwdm0Fd)
-  - [Multi Needle In A Haystack Evaluation + LangSmith](https://github.com/gkamradt/LLMTest_NeedleInAHaystack/blob/main/viz/CreateVisFromLangSmithTesting.ipynb) - rendered IPyNotebook on Github
+- `video` [Is RAG Really Dead? Testing Multi Fact Retrieval & Reasoning in GPT4-128k](https://youtu.be/UlmyyYQGhzc?si=37a06MISPrwdm0Fd)
+  - `github` [Multi Needle In A Haystack Evaluation + LangSmith](https://github.com/gkamradt/LLMTest_NeedleInAHaystack/blob/main/viz/CreateVisFromLangSmithTesting.ipynb) - rendered IPyNotebook on Github
 
 ## LLM Security
 
@@ -95,3 +110,11 @@ A samll and humble repo trying to collect *awesome* resources about Large Langua
 - [Named Entity Recognition (NER)](https://www.techtarget.com/whatis/definition/named-entity-recognition-NER)
   - [@Wikipedia](https://en.wikipedia.org/wiki/Named-entity_recognition)
   - [What is Named Entity Recognition (NER)? Methods, Use Cases, and Challenges - DataCamp](https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
+
+## Learn - standing on the shoulders of giants
+
+### Videos
+
+- [Building a Research Assistant from Scratch - LangChain YT Channel](https://youtu.be/DjuXACWYkkU?feature=shared)
+- [Hugging Face + Langchain in 5 mins | Access 200k+ FREE AI models for your AI apps - Jason AI](https://youtu.be/_j7JEDWuqLE?feature=shared)
+- [All You Need To Know About Running LLMs Locally](https://youtu.be/XwL_cRuXM2E?si=2dUtyb1FtTXrRMnt)
