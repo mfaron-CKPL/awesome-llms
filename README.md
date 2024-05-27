@@ -173,3 +173,6 @@ A small and humble repo trying to collect *awesome* resources about Large Langua
 - [Building a Research Assistant from Scratch - LangChain YT Channel](https://youtu.be/DjuXACWYkkU?feature=shared)
 - [Hugging Face + Langchain in 5 mins | Access 200k+ FREE AI models for your AI apps - Jason AI](https://youtu.be/_j7JEDWuqLE?feature=shared)
 - [All You Need To Know About Running LLMs Locally](https://youtu.be/XwL_cRuXM2E?si=2dUtyb1FtTXrRMnt)
+
+...to be continued.
+
