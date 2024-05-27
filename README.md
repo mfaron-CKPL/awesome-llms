@@ -18,9 +18,10 @@ A small and humble repo trying to collect *awesome* resources about Large Langua
 - [Anthropic](https://www.anthropic.com/)
   - `docs` [Welcome to Claude - Anthropic](https://docs.anthropic.com/claude/docs/intro-to-claude)
   - `api` [API reference](https://docs.anthropic.com/claude/reference/getting-started-with-the-api)
-- Google
-- OpenAI
-- ...
+- [Google]()
+- [OpenAI]()
+- [Meta]()
+  - [Meta Llama on HuggingFace](https://huggingface.co/meta-llama)
 
 ## How GPT works?
 
@@ -70,7 +71,6 @@ A small and humble repo trying to collect *awesome* resources about Large Langua
 ## Tokenizers and tokenization
 
 - [tiktoken](https://github.com/openai/tiktoken) - fast BPE tokenizer created by OpenAI.
-
 - [Byte pair encoding](https://en.wikipedia.org/wiki/Byte_pair_encoding)
 
 ## Embeddings
@@ -83,6 +83,7 @@ A small and humble repo trying to collect *awesome* resources about Large Langua
 
 ## Vector Databases
 
+- `article` [Best 16 Vector Databases for 2024](https://lakefs.io/blog/12-vector-databases-2023/)
 - [Vector databases - OpenAI Cookbook](https://cookbook.openai.com/examples/vector_databases/readme)
 - [The Top 5 Vector Databases - DataCamp Article](https://www.datacamp.com/blog/the-top-5-vector-databases)
 - [A gentle introduction to Vector Databases - Weaviate Blog](https://weaviate.io/blog/what-is-a-vector-database)
@@ -98,7 +99,7 @@ A small and humble repo trying to collect *awesome* resources about Large Langua
 
 - [Stanford CS25: V3 I Retrieval Augmented Language Models - YT](https://youtu.be/mE7IDf2SmJg?si=VoUHzA2guAuskkb8)
 - [RAFT: Adapting Language Model to Domain Specific RAG](https://huggingface.co/papers/2403.10131)
-  - [code](https://github.com/ShishirPatil/gorilla/tree/main/raft)
+  - `github` [RAFT code] (https://github.com/ShishirPatil/gorilla/tree/main/raft)
   - [LinkedIn post by Andrew Jardine (Hugging Face)](https://www.linkedin.com/posts/andrew-iain-jardine_llms-llm-gpt3-activity-7175859531439099904-Rxbf?utm_source=share&utm_medium=member_desktop)
 - [Massive Text Embedding Benchmark from Hugging Face](https://github.com/embeddings-benchmark/mteb)
 
@@ -129,10 +130,18 @@ A small and humble repo trying to collect *awesome* resources about Large Langua
 - [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131)
 - [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/abs/2404.07143)
+- [Efficient Streaming Language Models with Attention Sinks](https://hanlab.mit.edu/projects/streamingllm)
+- [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219)
+- [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/pdf/2310.12036.pdf)
 
 ## Managing costs and resources
 
 - [The REAL cost of LLM (And How to reduce 78%+ of Cost)](https://www.youtube.com/watch?v=lHxl5SchjPA)
+
+## Articles
+
+- `article` [Preference Tuning LLMs with Direct Preference Optimization Methods](https://huggingface.co/blog/pref-tuning)
 
 ## Other
 
